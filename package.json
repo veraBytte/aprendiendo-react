@@ -1,0 +1,20 @@
+{
+  "name": "react-0",
+  "version": "1.0.0",
+  "description": "React es una librería de JavaScript para construir interfaces de usuario. Es mantenido por Facebook y la comunidad de software libre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taliixer/aprendiendo-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taliixer/aprendiendo-react/issues"
+  },
+  "homepage": "https://github.com/taliixer/aprendiendo-react#readme"
+}
